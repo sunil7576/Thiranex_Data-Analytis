@@ -1,1 +1,26 @@
+# Customer Segmentation Dashboard
 
+## Objective
+Analyze customer behavior and segment customers based on purchasing patterns.
+
+## Tools Used
+- Power BI Desktop
+- Sample Superstore Dataset
+
+## Features
+- Customer Segmentation Analysis
+- Sales by Customer Segment
+- Profit by Customer Segment
+- Customer Distribution by Region
+- Category Preference Analysis
+- Top 10 Customers
+- Interactive Filters
+
+## Key Insights
+- Consumer segment generated the highest sales.
+- Regional customer distribution was analyzed.
+- Category preferences were identified.
+- Top customers contributed a significant portion of total sales.
+
+## Outcome
+Built a customer segmentation dashboard to understand customer behavior and support business decision-making.
